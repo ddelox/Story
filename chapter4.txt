@@ -4,4 +4,4 @@ Very unlikely that I understand how to use git bash and git hub
 today 03/11/2024
 Krakow, Poland.
 
--ADDED TEXT TESTING-
+-CODED TEXT TESTING-
