@@ -1,7 +1,0 @@
-Test 4
-CHAPTER 4
-Very unlikely that I understand how to use git bash and git hub
-today 03/11/2024
-Krakow, Poland.
-
--CODED TEXT TESTING-
